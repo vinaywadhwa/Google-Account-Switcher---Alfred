@@ -6,14 +6,16 @@ An Alfred workflow to Switch google accounts in google apps (Drive, Gmail) with 
 ![Alfred Logo](https://cloud.githubusercontent.com/assets/398893/3528722/5b5b30c6-0792-11e4-956d-750ac3a00bd8.png)
 
 ## Features
-- Supports switching between upto 3 Google accounts. 
-- Support Google Chrome, Safari & Brave
-- Supports Drive & Gmail but may support other apps as well.
+- Supports switching between upto 3 Google accounts with keyboard shortcuts (configurable)
+- Supports Google Chrome, Safari & Brave browsers
+- Supports Drive & Gmail but may support other google apps as well, try it!
 
 
 ## Install
 
-[Download](https://github.com/vinaywadhwa/Google-Account-Switcher---Alfred/releases/download/1.0.0/Google.Account.Switcher.-.Alfred.-.v1.0.0.alfredworkflow) and open the workflow file using [Alfred](https://www.alfredapp.com/).
+- Download and open the workflow file using [Alfred](https://www.alfredapp.com/).
+- Get the latest release from here : https://github.com/vinaywadhwa/Google-Account-Switcher---Alfred/releases
+
 
 P.S.: You need to [buy the Powerpack](https://buy.alfredapp.com/) to use this workflow.
 
