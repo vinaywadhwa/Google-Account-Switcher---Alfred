@@ -7,7 +7,6 @@ An Alfred workflow to Switch google accounts in google apps (Drive, Gmail) with 
 
 ## Features
 - Supports switching between upto 3 Google accounts with keyboard shortcuts (configurable)
-- Supports Google Chrome, Safari & Brave browsers
 - Supports Drive & Gmail but may support other google apps as well, try it!
 
 
@@ -30,5 +29,15 @@ Setup the workflow environment variables like :
 
 ..and that's it. Use the default keyboard shortcuts or setup your own to switch google accounts.
 
-## Note: 
+## Supported Browsers
+- Safari
+- Google Chrome
+- Google Chrome Canary
+- Opera
+- Vivaldi
+- Brave Browser
+
+### Note
+- Firefox not supported, for now, sorry! [This](https://www.alfredforum.com/topic/2013-how-to-get-frontmost-tab%E2%80%99s-url-and-title-of-various-browsers/) is why.
+- Please reach out if you need other Chrome/Safari based browsers supported.
 - You must be logged in with the aforementioned accounts already. Which of the 3 accounts you log into first does not matter.
