@@ -49,7 +49,7 @@ Setup the workflow environment variables like :
 - Report issues
 - Open pull request with improvements
 - Spread the word
-- Reach out with any feedback ![Twitter Contact](https://img.shields.io/twitter/follow/vinayw?label=Contact%20%40vinayw&style=social)
+- Reach out with any feedback ![Twitter Follow](https://img.shields.io/twitter/follow/vinayw?style=social)
 
 ## 🏅 License
 
