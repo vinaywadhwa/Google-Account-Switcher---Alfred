@@ -1,5 +1,5 @@
 # Google Account Switcher - Alfred Workflow
-An Alfred workflow to Switch google accounts in google apps (Drive, Gmail) with a simple keyboard shortcut. 
+An Alfred workflow to Switch Google/GSuite accounts in Google websites (Gmail, Drive, Calendar) with keyboard shortcuts. 
 
 
 ![Google Account Switcher | Logo](logo.png)
@@ -32,7 +32,7 @@ Then, setup the keyboard shortcuts for each of the accounts, say
 - ctrl+opt+2 for myaccount2@gmail.com
 - ctrl+opt+3 for myaccount3@gmail.com
 
-..and that's it. Use these shortcuts to switch between google accounts on gmail.com or drive.com in the browser.
+..and that's it. Use these shortcuts to switch between google accounts on gmail/google-drive/google-calendar websites in the browser's active tab.
 
 ## 🌐 Supported Browsers
 - Safari
@@ -44,6 +44,7 @@ Then, setup the keyboard shortcuts for each of the accounts, say
 
 ### 🗒 Note
 - You must be logged in with the aforementioned accounts already. Which of the 3 accounts you log into first has no effect on the way the workflow functions.
+- The 'active' tab in the browser must have the gmail/drive/calendar website opened for the keyboard shortcuts to work. 
 - Firefox not supported, for now, sorry! [This](https://www.alfredforum.com/topic/2013-how-to-get-frontmost-tab%E2%80%99s-url-and-title-of-various-browsers/) is why.
 - Please reach out if you need other Chrome/Safari based browsers supported.
 
