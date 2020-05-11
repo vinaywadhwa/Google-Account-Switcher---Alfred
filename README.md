@@ -1,9 +1,7 @@
 # Google Account Switcher - Alfred Workflow
 An Alfred workflow to Switch Google/GSuite accounts on Google websites (Gmail, Drive, Calendar) with keyboard shortcuts. 
 
-
-![Google Account Switcher | Logo](logo.png)
-![Alfred Logo](https://cloud.githubusercontent.com/assets/398893/3528722/5b5b30c6-0792-11e4-956d-750ac3a00bd8.png)
+<img src="logo.png" width="200" alt="Google Account Switcher | Logo"/>
 
 ## ⚛ Features
 - Supports switching between upto 3 Google accounts with keyboard shortcuts (configurable)
