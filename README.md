@@ -4,7 +4,7 @@ An Alfred workflow to switch between Google/GSuite accounts on Google websites (
 <img src="logo.png" width="200" alt="Google Account Switcher | Logo"/>
 
 ## ⚛ Features
-- Supports switching between upto 3 Google accounts with keyboard shortcuts (configurable)
+- Supports switching between upto 9 Google accounts with keyboard shortcuts (configurable)
 - Supports Gmail, Drive & Calendar but may support other google apps as well, try it!
 
 
@@ -41,7 +41,7 @@ Then, setup the keyboard shortcuts for each of the accounts, say
 - Brave Browser
 
 ### 🗒 Note
-- You must be logged in with the aforementioned accounts already. Which of the 3 accounts you log into first has no effect on the way the workflow functions.
+- You must be logged in with the aforementioned accounts already. Which of the accounts you log into first has no effect on the way the workflow functions.
 - The 'active' tab in the browser must have the gmail/drive/calendar website opened for the keyboard shortcuts to work. 
 - Firefox not supported, for now, sorry! [This](https://www.alfredforum.com/topic/2013-how-to-get-frontmost-tab%E2%80%99s-url-and-title-of-various-browsers/) is why.
 - Please reach out if you need other Chrome/Safari based browsers supported.
